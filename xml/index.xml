@@ -51,6 +51,7 @@
           <listWit>
             <witness xml:id="Servius"><abbr type="siglum">Servius</abbr></witness>
             <witness xml:id="Pastrengicus"><abbr type="siglum">Pastrengicus</abbr></witness>
+            <witness xml:id="G1"><abbr type="siglum">G<hi rend="superscript">1</hi></abbr></abbr></witness>
           </listWit>
           <!--A key to the special sigla and abbreviations used in the edition (drawn
           from the @xml:id's assigned to the various items in the
